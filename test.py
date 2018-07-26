@@ -2,7 +2,7 @@ import hermitcraftvideos as hermitcraft
 
 #Lets get Xsumiavoid as an example. Make sure to use the exact channel name.
 x = hermitcraft.getHermit("xisumavoid")
-
+print("@{} - {}".format(x.twitter.name,x.twitter.url))
 #We can get his name (xisumavoid)
 print(x.name)
 
