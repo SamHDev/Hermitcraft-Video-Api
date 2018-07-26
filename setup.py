@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="hermitcraftvideos",
-    version="0.0.1",
+    version="0.1.1",
     author="SamHDev",
     author_email="samhdev@gmail.com",
     description="A Wrapper for Hermicraft Video API",
